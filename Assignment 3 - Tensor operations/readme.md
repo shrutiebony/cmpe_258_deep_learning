@@ -22,15 +22,15 @@ Mastering tensor operations allows for better model optimization, faster computa
 
 The following resources were used in creating the notebooks:
 
-TensorFlow Documentation: Tensor Guide
+1) TensorFlow Documentation: Tensor Guide
 
-PyTorch Documentation: Tensor Basics
+2) PyTorch Documentation: Tensor Basics
 
-Einops Library: Efficient Tensor Operations
+3) Einops Library: Efficient Tensor Operations
 
-FastAI Notebook on Matrix Multiplication
+4) FastAI Notebook on Matrix Multiplication
 
-TensorFlow Deep Learning Course by Daniel Bourke
+5) TensorFlow Deep Learning Course by Daniel Bourke
 
 ### Video Walkthrough
 

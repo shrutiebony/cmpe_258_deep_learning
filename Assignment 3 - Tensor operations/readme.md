@@ -37,8 +37,8 @@ The following resources were used in creating the notebooks:
 A detailed video walkthrough of the notebooks is available here: Watch Video.
 
 
-Tenser_Operations_Using_Pytorch: https://colab.research.google.com/drive/1Nqn0x3PfL_OUQxT0QdNtuHjJ2_0hgjXv?usp=sharing
-Video Link: https://youtu.be/L-5rUhNK9Zs
+1) Tenser_Operations_Using_Pytorch: https://colab.research.google.com/drive/1Nqn0x3PfL_OUQxT0QdNtuHjJ2_0hgjXv?usp=sharing
+2) Video Link: https://youtu.be/L-5rUhNK9Zs
 
 
 

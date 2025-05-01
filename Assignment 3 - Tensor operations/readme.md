@@ -37,4 +37,8 @@ The following resources were used in creating the notebooks:
 A detailed video walkthrough of the notebooks is available here: Watch Video.
 
 
+Tenserflow_Using_Pytorch: https://colab.research.google.com/drive/1Nqn0x3PfL_OUQxT0QdNtuHjJ2_0hgjXv?usp=sharing
+
+
+
 

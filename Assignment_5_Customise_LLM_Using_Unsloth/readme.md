@@ -7,3 +7,4 @@
 7) Pretraining the language Part 2: https://colab.research.google.com/drive/1h35H8Emh_01X03zvwGHmcnVsDePXSHH6?usp=sharing
 8) Tiny Llama: https://colab.research.google.com/drive/1wm4hgQz5reM6QHQGZKUTKPTi5JN4h8JL?usp=sharing
 9) Mistral_nemo: https://colab.research.google.com/drive/1CXCIYZhyP7tZefis6KeFGhVOVRpbpa0e
+Youtube link: https://youtu.be/DH8knBzI8MI

@@ -6,3 +6,4 @@
 6) Tenserflow_without_Highlevel_API: https://colab.research.google.com/drive/1-uMBoIU2BXjRY04m-hdcBtElRe2VsAH2?usp=sharing
 7) Using_Pytorch: https://colab.research.google.com/drive/1t7CaP3rwo3RGmmcEe3uhVUItB8GZeEPS?usp=sharing
 8) Using Tenserflow: https://colab.research.google.com/drive/1TGj5TE1jCTa9A_p5iUt9aB1pWoRWzJLF?usp=sharing
+9) Video link: https://youtu.be/ATIjMikAKAo

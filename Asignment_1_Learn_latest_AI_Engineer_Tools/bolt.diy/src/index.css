@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #9333ea;
+  --secondary: #f97316;
+}
+
+body {
+  @apply bg-neutral-50 text-neutral-900;
+}
+
+/* Custom button styles */
+.btn-primary {
+  @apply bg-purple-600 text-white hover:bg-purple-700 focus:ring-purple-600;
+}
+
+.btn-secondary {
+  @apply bg-orange-500 text-white hover:bg-orange-600 focus:ring-orange-500;
+}
+
+/* Custom form styles */
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="number"],
+input[type="date"],
+input[type="time"],
+select,
+textarea {
+  @apply border-neutral-300 focus:border-purple-600 focus:ring-purple-600;
+}
+
+/* Custom card styles */
+.card {
+  @apply bg-white rounded-lg shadow-sm border border-neutral-200;
+}
+
+/* Custom link styles */
+a {
+  @apply text-purple-600 hover:text-purple-700;
+}
+
+/* Custom heading styles */
+h1, h2, h3, h4, h5, h6 {
+  @apply text-neutral-900;
+}

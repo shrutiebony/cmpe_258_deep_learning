@@ -1,5 +1,6 @@
-Research Paper Selected: https://arxiv.org/abs/2402.02239
-Medium Article: https://medium.com/@shrutiebony/unifying-dimensionality-reduction-and-clustering-with-gromov-wasserstein-optimal-transport-e4f497475c2b
+1) Research Paper Selected: https://arxiv.org/abs/2402.02239
+2) Medium Article: https://medium.com/@shrutiebony/unifying-dimensionality-reduction-and-clustering-with-gromov-wasserstein-optimal-transport-e4f497475c2b
+3) Video Link: 
 # 🧠 Core Idea
 The authors present a new framework called Distributional Reduction (DistR) that uses Gromov-Wasserstein (GW) optimal transport to jointly perform dimensionality reduction and clustering. They treat datasets as probability distributions and optimize over a reduced set of representative points (prototypes) in a low-dimensional space.
 
